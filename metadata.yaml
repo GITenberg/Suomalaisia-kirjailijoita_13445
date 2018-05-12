@@ -1,0 +1,44 @@
+_repo: Suomalaisia-kirjailijoita_13445
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leino, Eino
+    aliases:
+    - Lönnbohm, Armas Einar Leopold
+    - Vilkastus, Mikko
+    - Lonnbohm, Armas Eino Leopold
+    - Sepeteus, Kanttori
+    - Leino, Armas Eino Leopold
+    - Lönnbohm, Armas Eino Leopold
+    birthdate: 1878
+    deathdate: 1926
+    gutenberg_agent_id: '3927'
+    url: http://www.gutenberg.org/2009/agents/3927
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Eino_Leino
+    - http://fi.wikipedia.org/wiki/Eino_Leino
+description: ''
+gutenberg_issued: '2004-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13445'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish literature -- 19th century -- History and criticism'
+- !lcsh 'Authors, Finnish -- 19th century -- Biography'
+- !lcsh 'Authors, Finnish -- 20th century -- Biography'
+- !lcc 'PH'
+- !lcsh 'Finnish literature -- 20th century -- History and criticism'
+tableOfContents: 'Esisana -- Elias Lönnrot -- A. Oksanen -- Aleksis Kivi -- Yrjö Koskinen
+  -- Kaarlo Bergbom -- Suonio -- A. Meurman -- Pietari Päivärinta -- J.H. Erkko --
+  Kaarlo Kramsu -- Arvi Jännes -- Paavo Cajander -- Juho Reijonen -- Robert Kiljander
+  -- Minna Canth -- Juhani Aho -- Arvid Järnefelt -- Santeri Ivalo (Ingman) -- Kasimir
+  Leino -- Teuvo Pakkala -- Liite: Realismin loppu ja uusromantinen kirjallisuutemme.'
+title: Suomalaisia kirjailijoita
+url: http://www.gutenberg.org/ebooks/13445
